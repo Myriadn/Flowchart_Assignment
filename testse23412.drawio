@@ -21,8 +21,8 @@
         <mxCell id="CvGgAztYQBIHhji6pbgG-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="-280.62" width="380" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="CvGgAztYQBIHhji6pbgG-34" value="User Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="-300" width="80" height="30" as="geometry" />
+        <mxCell id="CvGgAztYQBIHhji6pbgG-34" value="Client Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="-300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CvGgAztYQBIHhji6pbgG-35" value="Game Engine Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="-431.25" width="130" height="30" as="geometry" />

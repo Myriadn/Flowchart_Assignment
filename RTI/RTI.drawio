@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="UKkVbUK9woeTSeG3UbAq">
-    <mxGraphModel dx="2528" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4077" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,6 +182,97 @@
             <mxGeometry x="-650" y="1161" width="622" height="727" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-1" target="hTJF2SVs3dXkniOsBd8t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-1" value="Mulai Game" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="820" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-2" target="hTJF2SVs3dXkniOsBd8t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-2" value="Pemain memasuki Narasi Awal" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="916" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-4" target="hTJF2SVs3dXkniOsBd8t-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-4" value="Pemain Mengikuti Alur Permainannya" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-6" target="hTJF2SVs3dXkniOsBd8t-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-6" value="Inisiasi Boss Khodam" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1101" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-8" target="hTJF2SVs3dXkniOsBd8t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-12" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTJF2SVs3dXkniOsBd8t-11">
+          <mxGeometry x="0.0533" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-8" target="hTJF2SVs3dXkniOsBd8t-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-15" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTJF2SVs3dXkniOsBd8t-14">
+          <mxGeometry x="0.2858" y="5" relative="1" as="geometry">
+            <mxPoint x="-19" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-8" value="Pemain Terlihat oleh Boss Khodam?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1245" y="1190" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-10" target="hTJF2SVs3dXkniOsBd8t-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-10" value="memilih Aksi (seperti serang, kejar, dll)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-13" target="hTJF2SVs3dXkniOsBd8t-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-13" value="Mode Patroli" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-31" target="hTJF2SVs3dXkniOsBd8t-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-31" value="Pemain berinteraksi dengan lingkungan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-35" target="hTJF2SVs3dXkniOsBd8t-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-41" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTJF2SVs3dXkniOsBd8t-40">
+          <mxGeometry x="0.0928" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-35" target="hTJF2SVs3dXkniOsBd8t-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-43" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTJF2SVs3dXkniOsBd8t-42">
+          <mxGeometry x="-0.1319" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-35" value="Level Selesai?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="1440" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-39" target="hTJF2SVs3dXkniOsBd8t-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1400" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-39" value="Akhiri Permainan" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-48" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=light-dark(#FF0000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="-1415" y="1635" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

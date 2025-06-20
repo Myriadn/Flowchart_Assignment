@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="UKkVbUK9woeTSeG3UbAq">
-    <mxGraphModel dx="2797" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4293" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,88 +274,75 @@
           <mxGeometry x="-1415" y="1635" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hTJF2SVs3dXkniOsBd8t-50" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Pemain&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1600" y="1830" width="220" height="880" as="geometry" />
+          <mxGeometry x="-1570" y="1820" width="220" height="880" as="geometry" />
         </mxCell>
         <mxCell id="hTJF2SVs3dXkniOsBd8t-51" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Sistem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="1830" width="220" height="880" as="geometry" />
+          <mxGeometry x="-1350" y="1820" width="220" height="880" as="geometry" />
         </mxCell>
         <mxCell id="hTJF2SVs3dXkniOsBd8t-52" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Boss Khodam&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="1830" width="220" height="880" as="geometry" />
+          <mxGeometry x="-1130" y="1820" width="220" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-53" target="hTJF2SVs3dXkniOsBd8t-55">
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-53" target="hTJF2SVs3dXkniOsBd8t-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hTJF2SVs3dXkniOsBd8t-53" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1505" y="1860" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1475" y="1858" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-54" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="hTJF2SVs3dXkniOsBd8t-53" parent="1">
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1490" y="1950" as="targetPoint" />
+            <mxPoint x="-1180" y="2060" as="sourcePoint" />
+            <mxPoint x="-1080" y="2060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-55" target="hTJF2SVs3dXkniOsBd8t-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-55" value="Pemain memasuki permainan Tb Revision" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="1955" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-59" target="hTJF2SVs3dXkniOsBd8t-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-59" value="Inisiasi Boss Khodam" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="2040" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-60" target="hTJF2SVs3dXkniOsBd8t-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-60" value="Pemain Mengikuti Alur Permainan" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="2040" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-62" target="hTJF2SVs3dXkniOsBd8t-64">
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1050" y="2210" />
-            </Array>
+            <mxPoint x="-1400" y="2060" as="sourcePoint" />
+            <mxPoint x="-1300" y="2060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-62" value="Boss Khodam Mendeteksi keberadaan Pemain" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="2040" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-64" target="hTJF2SVs3dXkniOsBd8t-62">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1213.75" y="2175" as="sourcePoint" />
+            <mxPoint x="-1080" y="2090" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hTJF2SVs3dXkniOsBd8t-68" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTJF2SVs3dXkniOsBd8t-67">
           <mxGeometry x="-0.18" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-64" target="hTJF2SVs3dXkniOsBd8t-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1239.9999999999998" y="2250" as="sourcePoint" />
+            <mxPoint x="-1240" y="2290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hTJF2SVs3dXkniOsBd8t-71" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTJF2SVs3dXkniOsBd8t-70">
           <mxGeometry x="-0.0892" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-64" value="Pemain Terdeteksi?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1322.5" y="2160" width="105" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-69" target="hTJF2SVs3dXkniOsBd8t-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-69" value="Memilih aksi (kejar, serang, dll)" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="2300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-73" target="hTJF2SVs3dXkniOsBd8t-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-73" value="Pemain Berinteraksi dengan lingkungan permainan" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="2300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-79" target="hTJF2SVs3dXkniOsBd8t-81">
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1300" y="2320" as="sourcePoint" />
+            <mxPoint x="-1400" y="2320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1460" y="2350" as="sourcePoint" />
+            <mxPoint x="-1292.5" y="2420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1270" y="2550" />
+              <mxPoint x="-1460" y="2420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1240" y="2470" as="sourcePoint" />
+            <mxPoint x="-1400" y="2540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1240" y="2540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -364,17 +351,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-79" value="Level Selesai?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1322.5" y="2380" width="105" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-81" target="hTJF2SVs3dXkniOsBd8t-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hTJF2SVs3dXkniOsBd8t-81" value="Game Selesai" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="2520" width="120" height="60" as="geometry" />
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hTJF2SVs3dXkniOsBd8t-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1460" y="2570" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hTJF2SVs3dXkniOsBd8t-84" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1505" y="2630" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1475" y="2620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-86" target="hTJF2SVs3dXkniOsBd8t-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-86" value="Pemain memasuki permainan Tb Revision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-87" value="Pemain Mengikuti Alur Permainan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-88" value="Inisiasi Boss Khodam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hTJF2SVs3dXkniOsBd8t-89" target="hTJF2SVs3dXkniOsBd8t-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-89" value="Boss Khodam Mendeteksi keberadaan Pemain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-90" value="Memilih aksi (kejar, serang, dll)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-91" value="Pemain Berinteraksi dengan lingkungan permainan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-92" value="Game Selesai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="2510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-93" value="Level Selesai?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="2370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hTJF2SVs3dXkniOsBd8t-94" value="Pemain Terdeteksi?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1292.5" y="2150" width="105" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
